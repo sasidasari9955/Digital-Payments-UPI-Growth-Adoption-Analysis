@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Library-Python-150458)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-orange)
-![Dashboard](https://img.shields.io/badge/Dashboard-Tableau-blue)
+![Dashboard](https://img.shields.io/badge/Dashboard-PowerBI-blue)
 
 ---
 
@@ -10,7 +10,7 @@
 This project analyzes UPI (Unified Payments Interface) transaction data to understand how digital payments have grown over time.  
 The main goal is to practice **basic data analyst skills** using a real FinTech dataset.
 
-Python was used to clean the data, MySQL was used for SQL analysis, and Tableau was used to create a simple dashboard.  
+Python was used to clean the data, MySQL was used for SQL analysis, and PowerBI was used to create a simple dashboard.  
 The dashboard shows key trends, growth, adoption by banks, and seasonal patterns in UPI transactions.
 
 ---
@@ -65,7 +65,7 @@ This dataset does not contain user-level data.
 - **Pandas & NumPy** – Data handling  
 - **MySQL** – SQL analysis  
 - **SQLAlchemy** – Python to MySQL connection  
-- **Tableau** – Dashboard creation  
+- **PowerBI** – Dashboard creation  
 
 ---
 
@@ -87,7 +87,7 @@ Steps followed in this project:
 2. Load cleaned data into MySQL  
 3. Use SQL to calculate KPIs and trends  
 4. Analyze growth, adoption, and seasonality  
-5. Create a one-page Tableau dashboard  
+5. Create a one-page PowerBI dashboard  
 
 ---
 
@@ -117,7 +117,7 @@ Steps followed in this project:
 ---
 
 ## **Dashboard Overview**
-The Tableau dashboard shows:
+The PowerBI dashboard shows:
 - Key KPIs  
 - Transaction trends  
 - Bank adoption trends  
@@ -137,11 +137,5 @@ This project shows how data analysis can turn raw payment data into useful insig
 - Data cleaning using Python  
 - SQL analysis using MySQL  
 - KPI calculation  
-- Dashboard creation using Tableau  
+- Dashboard creation using PowerBI  
 
----
-
-## **Author**
-**Priyanka Lakra**  
-Data Analyst (Fresher)  
-SQL | Python | Tableau  
